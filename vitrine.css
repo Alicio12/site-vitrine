@@ -3,7 +3,7 @@ body
     
     background-color: moccasin;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 200px;
+    margin: 15%;
 }
 header
 {
@@ -27,7 +27,7 @@ h1 {
 }
 article {
     background-color: darkslategray;
-    padding: 20px;
+    padding: 5%;
 }
 h2 {
     margin: 10%;
